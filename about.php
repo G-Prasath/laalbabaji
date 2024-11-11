@@ -44,7 +44,7 @@
                     <div class="col-lg-6 ml-auto mr-auto">
                         <div class="video-content-wrap text-center">
                             <div class="icon">
-                                <a href="https://www.youtube.com/watch?v=d7jAiAYusUg" class="video-link popup-youtube"><img src="assets/images/icons/play-circle.png" alt="Video Icon"></a>
+                                <a href="./assets/images/about/BABAJI.mp4" class="video-link popup-youtube"><img src="assets/images/icons/play-circle.png" alt="Video Icon"></a>
                             </div>
                         </div>
                     </div>
@@ -89,7 +89,7 @@
                         <div class="fun-fact--one text-center">
                             <img src="assets/images/icons/counter-04.png" class="img-fluid" alt="Image">
                             <div class="content mt-20">
-                                <h6 class="fun-fact__text mb-10">Cup Coffee</h6>
+                                <h6 class="fun-fact__text mb-10">Cup Bajra Drink</h6>
                                 <h2 class="fun-fact__count"><span class="counter">9876</span></h2>
                             </div>
                         </div>

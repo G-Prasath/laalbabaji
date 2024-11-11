@@ -16,8 +16,9 @@
           <div class="col-lg-12">
             <div class="hero-content text-center" data-aos="fade-up" data-aos-duration="1500">
               <h1 class="text-white position-relative">
-                Mere Ganpati Guru <br />
-                Ganesh Ji Tusi Aa Jao.
+                ஓம்கார் <br />
+                ஆனந்தமாயிரு<br/>
+                நல்லதே நடக்கட்டும்
               </h1>
             </div>
           </div>
@@ -39,8 +40,7 @@
               <div class="feature-content" data-aos="fade-up" data-aos-duration="1500">
                 <h5 class="feature-title">Temple</h5>
                 <p>
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting.
+                  A temple is a sacred place of worship, reflection, and spiritual peace.
                 </p>
               </div>
             </div>
@@ -56,8 +56,7 @@
               <div class="feature-content" data-aos="fade-up" data-aos-duration="1500">
                 <h5 class="feature-title">Puja</h5>
                 <p>
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting.
+                  Puja is a ritual of devotion, offering prayers and gratitude to deities.
                 </p>
               </div>
             </div>
@@ -73,8 +72,7 @@
               <div class="feature-content" data-aos="fade-up" data-aos-duration="1500">
                 <h5 class="feature-title">Donation</h5>
                 <p>
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting.
+                  Donation is the act of giving money or goods to help others.
                 </p>
               </div>
             </div>
@@ -90,8 +88,7 @@
               <div class="feature-content" data-aos="fade-up" data-aos-duration="1500">
                 <h5 class="feature-title">Education</h5>
                 <p>
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting.
+                  Education is the process of learning and acquiring knowledge and skills.
                 </p>
               </div>
             </div>
@@ -119,8 +116,9 @@
               <div class="col-lg-5" data-aos="fade-right" data-aos-duration="1800">
                 <div class="donation-image">
                   <img
-                    src="assets/images/events/church-events-01.png"
+                    src="assets/images/home/friday.jpg"
                     class="img-fluid"
+                    style="width: 100%;"
                     alt="Donation Image" />
                 </div>
               </div>
@@ -159,7 +157,7 @@
               <div class="col-lg-5 order-lg-2 order-1" data-aos="fade-left" data-aos-duration="1800">
                 <div class="donation-image">
                   <img
-                    src="assets/images/events/church-events-02.png"
+                    src="assets/images/home/pournami.jpg"
                     class="img-fluid"
                     alt="Donation Image" />
                 </div>
@@ -174,7 +172,7 @@
               <div class="col-lg-5" data-aos="fade-right" data-aos-duration="1800">
                 <div class="donation-image">
                   <img
-                    src="assets/images/events/church-events-03.png"
+                    src="assets/images/home/treatments.jpg"
                     class="img-fluid"
                     alt="Donation Image" />
                 </div>
@@ -211,8 +209,9 @@
               <div class="col-lg-5 order-lg-2 order-1" data-aos="fade-left" data-aos-duration="1800">
                 <div class="donation-image">
                   <img
-                    src="assets/images/events/church-events-02.png"
+                    src="assets/images/home/bajra.jpg"
                     class="img-fluid"
+                    style="width: 100%;"
                     alt="Donation Image" />
                 </div>
               </div>
@@ -226,8 +225,9 @@
               <div class="col-lg-5" data-aos="fade-right" data-aos-duration="1800">
                 <div class="donation-image">
                   <img
-                    src="assets/images/events/church-events-03.png"
+                    src="assets/images/home/viboodhi.jpg"
                     class="img-fluid"
+                    style="width: 100%;"
                     alt="Donation Image" />
                 </div>
               </div>
@@ -259,17 +259,18 @@
     <div class="tai-about-area section-space--ptb_120">
       <div class="container-fluid pl-0 pr-0">
         <div class="row no-gutters align-items-center">
-          <div class="col-lg-6" data-aos="fade-right" data-aos-duration="1800">
+          <div class="col-lg-4" data-aos="fade-right" data-aos-duration="1800">
             <div class="about-tai-image">
               <img
-                src="assets/images/banners/tai-about.png"
+                src="assets/images/home/001 4x6.jpg"
                 class="img-fluid"
+                style="width: 90%;"
                 alt="Tai Images" />
             </div>
           </div>
-          <div class="col-lg-6">
+          <div class="col-lg-8">
             <div
-              class="about-tai-content col-06__right tablet-mt__30 small-mt__30">
+              class="about-tai-content tablet-mt__30 small-mt__30">
               <div class="section-title-wrap" data-aos="zoom-in" data-aos-duration="1800">
                 <h3 class="section-title left-style">Babaji Visites</h3>
               </div>
@@ -295,7 +296,7 @@
               <div class="video-content-wrap text-center position-relative">
                 <div class="icon">
                   <a
-                    href="https://www.youtube.com/watch?v=d7jAiAYusUg"
+                    href="./assets/images/iamwhatyouthink.mp4"
                     class="video-link popup-youtube"><img
                       src="assets/images/icons/play-circle.png"
                       alt="Video Icon" /></a>
@@ -334,19 +335,18 @@
             <div class="single-activities-wrap">
               <div class="activities-imgaes" style="display: flex; justify-content: center;">
                 <img
-                  src="assets/images/activities/hindu-activities-01.png"
+                  src="assets/images/home/profile.png"
                   class="img-fluid"
                   style="width: 150px;"
                   alt="" />
               </div>
               <div class="activities-content text-center">
-                <div class="widget-metadata"><span>South Temple</span></div>
+                <div class="widget-metadata"><span>Chennai</span></div>
                 <a href="#">
-                  <h4 class="activities-title">Spiritual Service</h4>
+                  <h4 class="activities-title">K. Jayaraman</h4>
                 </a>
                 <p>
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
+                  I'm blessed to be a devotee of shri Laa Al sidh Babaji, as he has rejuvinated me and my family with is Devine Grace, which can't be expressed by words
                 </p>
               </div>
             </div>
@@ -357,19 +357,18 @@
             <div class="single-activities-wrap">
               <div class="activities-imgaes" style="display: flex; justify-content: center;">
                 <img
-                  src="assets/images/activities/hindu-activities-02.png"
+                  src="assets/images/home/profile.png"
                   class="img-fluid"
                   style="width: 150px;"
                   alt="" />
               </div>
               <div class="activities-content text-center">
-                <div class="widget-metadata"><span>South Temple</span></div>
+                <div class="widget-metadata"><span>Chennai</span></div>
                 <a href="#">
-                  <h4 class="activities-title">Spiritual Service</h4>
+                  <h4 class="activities-title">Kumar</h4>
                 </a>
                 <p>
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
+                  I was suffering with Diabetes and overweight. Babaji showred his blessing and with his miracules prasadham, now I'm releived from over weight and my diabetes is in well controll.
                 </p>
               </div>
             </div>
@@ -380,19 +379,18 @@
             <div class="single-activities-wrap">
               <div class="activities-imgaes" style="display: flex; justify-content: center;">
                 <img
-                  src="assets/images/activities/hindu-activities-03.png"
+                  src="assets/images/home/profile.png"
                   class="img-fluid"
                   style="width: 150px;"
                   alt="" />
               </div>
               <div class="activities-content text-center">
-                <div class="widget-metadata"><span>South Temple</span></div>
+                <div class="widget-metadata"><span>காஞ்சிபுரம்</span></div>
                 <a href="#">
-                  <h4 class="activities-title">Spiritual Service</h4>
+                  <h4 class="activities-title">திரு. வேலு</h4>
                 </a>
                 <p>
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
+                  மருத்துவர்களால் கைவிடப்பட்ட நிலையில் நடக்கமுடியாமல் வந்த நான் இன்று, பாபாஜியின் அருளால் பூரண குணம் பெற்றேன்
                 </p>
               </div>
             </div>
@@ -411,8 +409,8 @@
 
 
   <!-- ================ JS Files =================  -->
-   <?php require_once('./_templates/foot.php') ?>
-   
+  <?php require_once('./_templates/foot.php') ?>
+
 </body>
 
 </html>

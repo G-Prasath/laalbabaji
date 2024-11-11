@@ -6,7 +6,7 @@
                 <div class="newsletter-box-area newsletter-bg">
                     <div class="newsletter-title">
                         <h4>Want to ask your Doubts & <br>
-                        Queries to Babaji? </h4>
+                            Queries to Babaji? </h4>
                     </div>
                     <a href="tel:" class="btn single-by-ticket-btn">call US</a>
                 </div>
@@ -30,13 +30,9 @@
                         <div class="footer-contents">
                             <ul>
                                 <li>
-                                    <span>Temple 1: </span> 777/ed Ipum Road Venu Demon Ipsum.
-                                    28400
+                                    ஸ்ரீ லா அல் சித் பாபாஜி சேவாஸ்ரமம். கைலாசநாதர் கோயில் மலையடிவாரம், கைலாசப்பட்டி, பெரியகுளம். தேனி மாவட்டம்.<br/> தமிழ்நாடு - 625 605. இந்தியா.
                                 </li>
-                                <li>
-                                    <span>Temple 2: </span> 577/ed Ipum Road Venu Demon Ipsum.
-                                    15400
-                                </li>
+
                             </ul>
                         </div>
                     </div>
@@ -48,10 +44,10 @@
                         </div>
                         <div class="footer-contents">
                             <ul>
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="about-us.html">About</a></li>
-                                <li><a href="events.html">Event</a></li>
-                                <li><a href="service.html">Service</a></li>
+                                <li><a href="index.php">Home</a></li>
+                                <li><a href="about-us.php">About</a></li>
+                                <li><a href="service.php">Service</a></li>
+                                <li><a href="events.php">Contact</a></li>
                             </ul>
                         </div>
                     </div>
@@ -74,33 +70,10 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="widget-footer mt-30">
                         <div class="footer-title">
-                            <h6>Related Links</h6>
+                            <h6>Babaji Golden Words</h6>
                         </div>
-                        <div class="footer-logo mb-15">
-                            <a href="index.html"><img src="assets/images/logo/footer-logo.png" alt="" /></a>
-                        </div>
-                        <div class="footer-contents">
-                            <p>Subscribe to our Newsletter & stay update.</p>
-                            <div class="newsletter-box">
-                                <input type="text" placeholder="Enter your mail address" />
-                                <button><i class="flaticon-paper-plane"></i></button>
-                            </div>
-
-                            <ul class="footer-social-share mt-20">
-                                <li>
-                                    <a href="#"><i class="flaticon-facebook"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="flaticon-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="flaticon-pinterest-social-logo"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="flaticon-youtube"></i></a>
-                                </li>
-                            </ul>
-                        </div>
+                        <p>ஓம்கார். <br/>ஆனந்தமாயிரு. <br/>நல்லதே நடக்கட்டும்</p>
+                        <p>நீ எதுவாக நினைக்கின்றாயோ, நான் அதுவாகவே வருவேன்.</p>
                     </div>
                 </div>
             </div>
@@ -112,10 +85,8 @@
                 <div class="col-lg-12">
                     <div class="copy-right-box">
                         <p class="text-white">
-                            Copyright &copy; 2020 Hastech
-                            <a href="https://hasthemes.com/" target="_blank">All Right Reserved</a>.
+                            Copyright &copy; 2024 <a href="https://hasthemes.com/" target="_blank">All Right Reserved E STAR</a>.
                         </p>
-                        <p class="text-white"><a href="#">Privacy policy</a></p>
                     </div>
                 </div>
             </div>
